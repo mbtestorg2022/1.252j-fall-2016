@@ -40,10 +40,63 @@ We will share relevant public meetings, hearings, lectures, and other events thr
 Grading
 -------
 
-| ASSIGNMENTS | PERCENTAGES |
-| --- | --- |
-| Assignment 1: Counting & Observing at Key Intersections | 15% |
-| Assignment 2: Re-designing Massachusetts Ave for All | 20% |
-| Assignment 3: Assessing the Impacts of Growth in the Lower Mystic | 20% |
-| Assignment 4: Planning for Growth in the Lower Mystic | 25% |
-| Participation (reading responses, class discussion, project presentations) | 20%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 1: Counting & Observing at Key Intersections
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 2: Re-designing Massachusetts Ave for All
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 3: Assessing the Impacts of Growth in the Lower Mystic
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 4: Planning for Growth in the Lower Mystic
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation (reading responses, class discussion, project presentations)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

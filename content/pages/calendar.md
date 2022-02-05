@@ -4,19 +4,269 @@ title: Calendar
 uid: 65657ac0-ab58-4e98-f069-a597fc96dbbb
 ---
 
-| WEEK | TOPICS |
-| --- | --- |
-| 1 | **Course Overview and Introduction** {{< br >}}{{< br >}} *   Overview of the course{{< br >}}*   The multi-step approach to transportation planning{{< br >}}*   Current issues and trends in urban transportation{{< br >}}*   Pattern breaks{{< br >}}*   The transportation planning method {{< br >}}{{< br >}}  |
-| 2 | **Urban Transportation History and Institutions** {{< br >}}{{< br >}} *   Thumbnail history of Boston{{< br >}}*   Transportation and land use: chicken and egg{{< br >}}*   Job densities and transit{{< br >}}*   Introduction of first assignment {{< br >}}{{< br >}} _No recitation_ {{< br >}}{{< br >}} Assignment 0 "Introduce Yourself" due {{< br >}}{{< br >}}  |
-| 3 | **No Class: MIT Holiday** {{< br >}}{{< br >}} _No recitation_ {{< br >}}{{< br >}}  |
-| 4 | **Boston's Highway Revolt: Anatomy of a Pattern Break?** {{< br >}}{{< br >}} *   Highway revolt and resurgence of transit in Boston{{< br >}}*   Was the revolt a rebellion or a revolution?{{< br >}}*   Cambridge today{{< br >}}*   Guest Lecture: Dominick Tribone, "Counting Today: Automatically Collected Data Systems" {{< br >}}{{< br >}} _No recitation; Everett/Sullivan/Charlestown walking tour_ {{< br >}}{{< br >}} Assignment 1 due {{< br >}}{{< br >}}  |
-| 5 | **Transportation Finance and Legislation: Economic Development and Externalities** {{< br >}}{{< br >}} *   Transportation and federal legislation{{< br >}}*   Economic Development: job generation, urban agglomeration, industrial policy{{< br >}}*   External and social costs{{< br >}}*   Taxes for transporation{{< br >}}*   Gentrification{{< br >}}*   Employment policies, housing finance, tax code{{< br >}}*   Spending other people's money: what are the rules? Financial evaluation and constraints{{< br >}}*   Role of government, annual appropriations, capital investment{{< br >}}*   The "peanut butter principle", i.e. pork barrel {{< br >}}{{< br >}} _Recitation: Assignment 1 presentations (with special guest [Joe Barr](https://www.cambridgema.gov/traffic/engineeringplanning), Director of Traffic, Parking and Transportation for the City of Cambridge)_ {{< br >}}{{< br >}}  |
-| 6 | **The Battle for the Space Between Buildings: Street Design and the Politics of Urban Mobility** {{< br >}}{{< br >}} *   Guest Lecturer Anson Stewart: Spatial limits and capacity{{< br >}}*   Guest Lecture Jeff Rosenblum: Traffic calming, complete streets, and the politics of street design {{< br >}}{{< br >}} _No recitation_ {{< br >}}{{< br >}}  |
-| 7 | **Transportation Planning Methods and Measures: The 4-Step Model (and Other Traffic Models)** {{< br >}}{{< br >}} *   Guest Lecturer Mikel Murga {{< br >}}{{< br >}} _No recitation_ {{< br >}}{{< br >}}  |
-| 8 | **Congestion and Solutions** {{< br >}}{{< br >}} *   Congestion and solutions{{< br >}}*   Capacity and accessibility {{< br >}}{{< br >}} _Recitation: Presentation and discussion of Assignment 2_ {{< br >}}{{< br >}} Assignment 2 due {{< br >}}{{< br >}}  |
-| 9 | **Project Evaluation and Environmental Impacts of Transportation** {{< br >}}{{< br >}} Guest Lecturers Laurie Hussey and Tom Rossie of Cambridge Systematics {{< br >}}{{< br >}} *   FTA's new starts, evaluation criteria{{< br >}}*   Project selection and prioritization{{< br >}}*   Institutional role in project programming, MPOs and modal agencies{{< br >}}*   MPOs and the institutional role in programming{{< br >}}*   Highway expansion{{< br >}}*   National Environmental Policy Act (NEPA){{< br >}}*   Transportation and air quality{{< br >}}*   Large land use developments and MEPA {{< br >}}{{< br >}} _No recitation_ {{< br >}}{{< br >}}  |
-| 10 | **No class** {{< br >}}{{< br >}} _Recitation: Watch _[Great Projects: The Big Dig](http://www.pbs.org/greatprojects/about/bigdig.html)_ from PBS_ {{< br >}}{{< br >}}  |
-| 11 | **The Other Battle for the Space Between Buildings: Parking** {{< br >}}{{< br >}} *   Congestion: why it happens, and what we can do about it{{< br >}}*   Pricing road space: congestion charging{{< br >}}*   Congestion as an argument for transit{{< br >}}*   The non-linearity of congestions and interpreting congestion numbers{{< br >}}*   World tour of parking management practices and policies{{< br >}}*   Transit and parking policy{{< br >}}*   Legacies and innovations in urban transportation {{< br >}}{{< br >}} _No recitation_ {{< br >}}{{< br >}}  |
-| 12 | **No class** {{< br >}}{{< br >}} _No recitation_ {{< br >}}{{< br >}} Assignment 3 due {{< br >}}{{< br >}}  |
-| 13 | **Transportation Planning Methods and Measures: Access to Destinations** {{< br >}}{{< br >}} *   Accessibility measures{{< br >}}*   Gentrification and accessibility {{< br >}}{{< br >}} _Recitation: Presentation and discussion of Assignment 3_ {{< br >}}{{< br >}}  |
-| 14 | **Climate Change Adaptation and Sustainable Transportation** {{< br >}}{{< br >}} *   Transportation and global warming: might climate change adaptation be the next pattern break?{{< br >}}*   Changing conditions: austerity measures, devolution of responsibilities from the federal government to the states, demographic changes, and energy shifts{{< br >}}*   More transit supply, more transit mode share, more density near stations{{< br >}}*   Course evaluations, parting thoughts and wrap-up {{< br >}}{{< br >}} _Recitation: Feedback on course_ {{< br >}}{{< br >}} Assignment 4 due {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+**Course Overview and Introduction**
+
+*   Overview of the course
+*   The multi-step approach to transportation planning
+*   Current issues and trends in urban transportation
+*   Pattern breaks
+*   The transportation planning method
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+**Urban Transportation History and Institutions**
+
+*   Thumbnail history of Boston
+*   Transportation and land use: chicken and egg
+*   Job densities and transit
+*   Introduction of first assignment
+
+_No recitation_
+
+Assignment 0 "Introduce Yourself" due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+**No Class: MIT Holiday**
+
+_No recitation_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+**Boston's Highway Revolt: Anatomy of a Pattern Break?**
+
+*   Highway revolt and resurgence of transit in Boston
+*   Was the revolt a rebellion or a revolution?
+*   Cambridge today
+*   Guest Lecture: Dominick Tribone, "Counting Today: Automatically Collected Data Systems"
+
+_No recitation; Everett/Sullivan/Charlestown walking tour_
+
+Assignment 1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+**Transportation Finance and Legislation: Economic Development and Externalities**
+
+*   Transportation and federal legislation
+*   Economic Development: job generation, urban agglomeration, industrial policy
+*   External and social costs
+*   Taxes for transporation
+*   Gentrification
+*   Employment policies, housing finance, tax code
+*   Spending other people's money: what are the rules? Financial evaluation and constraints
+*   Role of government, annual appropriations, capital investment
+*   The "peanut butter principle", i.e. pork barrel
+
+_Recitation: Assignment 1 presentations (with special guest [Joe Barr](https://www.cambridgema.gov/traffic/engineeringplanning), Director of Traffic, Parking and Transportation for the City of Cambridge)_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+**The Battle for the Space Between Buildings: Street Design and the Politics of Urban Mobility**
+
+*   Guest Lecturer Anson Stewart: Spatial limits and capacity
+*   Guest Lecture Jeff Rosenblum: Traffic calming, complete streets, and the politics of street design
+
+_No recitation_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+**Transportation Planning Methods and Measures: The 4-Step Model (and Other Traffic Models)**
+
+*   Guest Lecturer Mikel Murga
+
+_No recitation_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+**Congestion and Solutions**
+
+*   Congestion and solutions
+*   Capacity and accessibility
+
+_Recitation: Presentation and discussion of Assignment 2_
+
+Assignment 2 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+**Project Evaluation and Environmental Impacts of Transportation**
+
+Guest Lecturers Laurie Hussey and Tom Rossie of Cambridge Systematics
+
+*   FTA's new starts, evaluation criteria
+*   Project selection and prioritization
+*   Institutional role in project programming, MPOs and modal agencies
+*   MPOs and the institutional role in programming
+*   Highway expansion
+*   National Environmental Policy Act (NEPA)
+*   Transportation and air quality
+*   Large land use developments and MEPA
+
+_No recitation_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+**No class**
+
+_Recitation: Watch _[Great Projects: The Big Dig](http://www.pbs.org/greatprojects/about/bigdig.html)_ from PBS_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+**The Other Battle for the Space Between Buildings: Parking**
+
+*   Congestion: why it happens, and what we can do about it
+*   Pricing road space: congestion charging
+*   Congestion as an argument for transit
+*   The non-linearity of congestions and interpreting congestion numbers
+*   World tour of parking management practices and policies
+*   Transit and parking policy
+*   Legacies and innovations in urban transportation
+
+_No recitation_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+**No class**
+
+_No recitation_
+
+Assignment 3 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+**Transportation Planning Methods and Measures: Access to Destinations**
+
+*   Accessibility measures
+*   Gentrification and accessibility
+
+_Recitation: Presentation and discussion of Assignment 3_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+**Climate Change Adaptation and Sustainable Transportation**
+
+*   Transportation and global warming: might climate change adaptation be the next pattern break?
+*   Changing conditions: austerity measures, devolution of responsibilities from the federal government to the states, demographic changes, and energy shifts
+*   More transit supply, more transit mode share, more density near stations
+*   Course evaluations, parting thoughts and wrap-up
+
+_Recitation: Feedback on course_
+
+Assignment 4 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
