@@ -89,7 +89,7 @@ Salvucci, Frederick P. "Some Observations on the Recent 25-year History of the M
 
 "[Moving Forward: Transportation and the Massachusetts Economy](http://www.edrgroup.com/library/multi-modal/trans-and-mass-economy.html)." White paper for Our Transportation Future, prepared by Economic Development Research Group, Inc.
 
-Campbell, Robert. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[The Beautiful Triumph of Tent City (PDF)](http://www.goodyclancy.com/wp-content/uploads/2014/05/Tent-City_Boston-Globe.pdf)." _The Boston Globe._ 23 Aug. 1988.
+Campbell, Robert.  "[The Beautiful Triumph of Tent City (PDF)](http://www.goodyclancy.com/wp-content/uploads/2014/05/Tent-City_Boston-Globe.pdf)." _The Boston Globe._ 23 Aug. 1988.
 
 **Supplementary Reading**
 
@@ -151,7 +151,7 @@ Malouff, Dan. "[Rockville Misses the Forest for the Trees with Its Plan for an 1
 
 **Supplementary Reading**
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[City of Cambridge: Transit Strategic Plan (PDF-13.2MB)](https://www.cambridgema.gov/CDD/News/2018/2/~/media/24934E0135D24A53890CEF52FEA53B4A.ashx). 2015.
+[City of Cambridge: Transit Strategic Plan (PDF-13.2MB)](https://www.cambridgema.gov/CDD/News/2018/2/~/media/24934E0135D24A53890CEF52FEA53B4A.ashx). 2015.
 
 [NACTO Urban Street Design Guide](http://nacto.org/publication/urban-street-design-guide/)
 
@@ -197,9 +197,9 @@ Zmud, Johanna P., Vincent P. Barabba, Mark Bradley, J. Richard Kuzmyak, Mia Zmud
 
 Downs, Anthony. _Stuck in Traffic: Coping with Peak-Hour Traffic Congestion._ Brookings Institution Press, 1992. ISBN: 9780815719236.
 
-Eisele, Bill, Tim Lomax and David Schrank. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[TTI's 2012 Urban Mobility Report (Powered by INRIX Traffic Data) (PDF)](http://s3.documentcloud.org/documents/566377/2012-urban-mobility-report.pdf)." Texas A&M Transportation Institute. December 2012.
+Eisele, Bill, Tim Lomax and David Schrank.  "[TTI's 2012 Urban Mobility Report (Powered by INRIX Traffic Data) (PDF)](http://s3.documentcloud.org/documents/566377/2012-urban-mobility-report.pdf)." Texas A&M Transportation Institute. December 2012.
 
-Cortright, Joseph. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Driven Apart: How Sprawl is Lengthening Our Commutes and why Misleading Mobility Measures are Making Things Worse: Executive Summary (PDF)](http://cityobservatory.org/wp-content/uploads/2015/08/Cortright_Driven_Apart_2010.pdf)." CEOs for Cities, 2010.
+Cortright, Joseph. "[Driven Apart: How Sprawl is Lengthening Our Commutes and why Misleading Mobility Measures are Making Things Worse: Executive Summary (PDF)](http://cityobservatory.org/wp-content/uploads/2015/08/Cortright_Driven_Apart_2010.pdf)." CEOs for Cities, 2010.
 
 Duranton, Gilles, and Matthew A. Turner. "[The Fundamental Law of Road Congestion: Evidence from U.S. Cities](https://dx.doi.org/10.1257/aer.101.6.2616)." _The American Economic Review_ 101, no. 6 (2011): 2616-2652.
 
@@ -213,9 +213,9 @@ Chingcuanco, Franco Franco Felipe. "[Congestion Pricing: Policy Dimensions, Publ
 
 Gomez-Ibanez, Jose. "The Political Economy of Highway Tolls and Congestion Pricing." _Transportation Quarterly_ 46: 3, July 1992.
 
-Small, Kenneth A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Unnoticed Lessons from London: Road Pricing and Public Transit." (PDF)](http://www.socsci.uci.edu/~ksmall/Transit%20-%20Access.pdf) _Access Magazine_ 26 (2005).
+Small, Kenneth A. ["Unnoticed Lessons from London: Road Pricing and Public Transit." (PDF)](http://www.socsci.uci.edu/~ksmall/Transit%20-%20Access.pdf) _Access Magazine_ 26 (2005).
 
-Oregon Department of Transportation. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Road Usage Pilot Program 2013 and Per-Mile Charge Policy in Oregon (PDF-1.0MB)](http://www.oregon.gov/ODOT/HWY/RUFPP/docs/RUCPP%20Final%20Report%20-%20May%202014.pdf)."
+Oregon Department of Transportation.  "[Road Usage Pilot Program 2013 and Per-Mile Charge Policy in Oregon (PDF-1.0MB)](http://www.oregon.gov/ODOT/HWY/RUFPP/docs/RUCPP%20Final%20Report%20-%20May%202014.pdf)."
 
 
 {{< tdclose >}}
@@ -230,7 +230,7 @@ Oregon Department of Transportation. ![This resource may not render correctly in
 
 Chapter 8 (sections 8.1-8.4) in Meyer, Michael and Eric Miller. _Urban Transportation Planning_. McGraw-Hill. 2000. ISBN: 9780072423327.
 
-United States Environmental Protection Agency. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Fast Facts: U.S. Transportation Sector Greenhouse Gas Emissions, 1990-2011 (PDF)](https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P100GYH6.pdf)."
+United States Environmental Protection Agency.  "[Fast Facts: U.S. Transportation Sector Greenhouse Gas Emissions, 1990-2011 (PDF)](https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P100GYH6.pdf)."
 
 Transportation Research Board. "[Expanding Metropolitan Highways: Implications for Air Quality and Energy Use](https://www.nap.edu/read/9676/chapter/1)." 1996.
 
@@ -238,13 +238,13 @@ Jenkins, Joseph, Michael Colella, and Frederick Salvucci. "[Agglomeration Benefi
 
 Kitman, Jamie Lincoln. "[The Secret History of Lead](https://www.thenation.com/article/secret-history-lead/)." _The Nation_. March 2, 2000.
 
-Commonwealth of Massachusetts. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Wynn Casino SSFEIR MEPA Certificate (PDF)](http://www.reverejournal.com/wp-content/uploads/2015/09/WynnCasinoMEPACertificateLetterAgu.-2015.pdf).
+Commonwealth of Massachusetts.  [Wynn Casino SSFEIR MEPA Certificate (PDF)](http://www.reverejournal.com/wp-content/uploads/2015/09/WynnCasinoMEPACertificateLetterAgu.-2015.pdf).
 
 **Supplementary Reading**
 
 Chapter 3 (pages 26-45, 59-72) in Meyer, Michael and Eric Miller. _Urban Transportation Planning_. McGraw-Hill. 2000. ISBN: 9780072423327.
 
-Massachusetts Gaming Commission. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Wynn Casino Impact Analysis (PDF-1.6MB)](http://massgaming.com/wp-content/uploads/Wynn-Everett-Boston-Impact-Analysis-7-23-14.pdf).
+Massachusetts Gaming Commission.  [Wynn Casino Impact Analysis (PDF-1.6MB)](http://massgaming.com/wp-content/uploads/Wynn-Everett-Boston-Impact-Analysis-7-23-14.pdf).
 
 
 {{< tdclose >}}
@@ -288,7 +288,7 @@ Parking Debate (read in this order)
 
 1.  Cowen, Tyler. "[Free Parking Comes at a Price](http://www.nytimes.com/2010/08/15/business/economy/15view.html?_r=0)." _The New York Times_. August 14, 2010.
 2.  O'Toole, Randal. "[Free Markets for Free Parking](https://www.cato.org/blog/free-markets-free-parking)." _Cato at Liberty_. The Cato Institute. August 16, 2010.
-3.  Shoup, Donald. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Free Parking Markets (PDF)](http://shoup.bol.ucla.edu/ResponseToAntiplanner.pdf)." E-mail to Randal O'Toole. August 31, 2010.
+3.  Shoup, Donald.  "[Free Parking Markets (PDF)](http://shoup.bol.ucla.edu/ResponseToAntiplanner.pdf)." E-mail to Randal O'Toole. August 31, 2010.
 4.  O'Toole, Randal. "[Donald Shoup on Free Parking](https://www.cato.org/blog/donald-shoup-free-parking)." _Cato at Liberty_. The Cato Institute. September 1, 2010.
 5.  Shoup, Donald. "[Shoup: Cato HQ the Perfect Lab for Reforming Commuter Parking Subsidies](http://nyc.streetsblog.org/2010/09/09/shoup-cato-hq-the-perfect-lab-for-reforming-commuter-parking-subsidies/)." _StreetsBlog NYC_. September 9, 2010.
 
@@ -319,7 +319,7 @@ Chapter 3, sections 3.1-3.2 in Block-Schacter, David, Michael Kay, Francesca Nap
 
 Handy, Susan L., and Debbie A. Niemeier. "[Measuring Accessibility: An Exploration of Issues and Alternatives](https://doi.org/10.1068/a291175)." _Environment and Planning A_ 29, no. 7 (1997): 1175-1194.
 
-State Smart Transportation Initiative. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Trip-Making and Accessibility: New Tools, Better Decisions (PDF-1.0MB)](https://ssti.us/wp-content/uploads/sites/1303/2020/05/Tripmaking_accessibility_SSTI-2016Feb.pdf)." 2016.
+State Smart Transportation Initiative.  "[Trip-Making and Accessibility: New Tools, Better Decisions (PDF-1.0MB)](https://ssti.us/wp-content/uploads/sites/1303/2020/05/Tripmaking_accessibility_SSTI-2016Feb.pdf)." 2016.
 
 Tomer, Adie. "[Where the Jobs Are: Employer Access to Labor by Transit](https://www.brookings.edu/research/where-the-jobs-are-employer-access-to-labor-by-transit/)." Washington, DC: Brookings Institution (2012).
 
@@ -358,7 +358,7 @@ Marshall, Stephen, and David Banister. "[Travel Reduction Strategies: Itentions 
 
 Banister, David. "Reducing CO2 by 60% in 2030: The Impossible Challenge for Transport?" Presented at the 11th World Conference on Transport Research, Berkeley, CA, June 2007.
 
-Handy, Susan, and Marlon G. Boarnet. Impact of Highway Capacity and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Impact of Highway Capacity and Induced Travel on Passenger Vehicle Use and Greenhouse Gas Emissions (PDF)](https://ww2.arb.ca.gov/sites/default/files/2020-06/Impact_of_Highway_Capacity_and_Induced_Travel_on_Passenger_Vehicle_Use_and_Greenhouse_Gas_Emissions_Technical_Background_Document.pdf)." California Environmental Protection Agency, Air Resources Board, Retrieved August 28 (2014): 2015.
+Handy, Susan, and Marlon G. Boarnet. Impact of Highway Capacity and "[Impact of Highway Capacity and Induced Travel on Passenger Vehicle Use and Greenhouse Gas Emissions (PDF)](https://ww2.arb.ca.gov/sites/default/files/2020-06/Impact_of_Highway_Capacity_and_Induced_Travel_on_Passenger_Vehicle_Use_and_Greenhouse_Gas_Emissions_Technical_Background_Document.pdf)." California Environmental Protection Agency, Air Resources Board, Retrieved August 28 (2014): 2015.
 
 Yang, Christopher, David McCollum, Ryan McCarthy, and Wayne Leighty. "[Meeting an 80% Reduction in Greenhouse Gas Emissions from Transportation by 2050: A Case Study in California](http://dx.doi.org/10.1016/j.trd.2008.11.010)." _Transportation Research Part D: Transport and Environment_ 14, no. 3 (2009): 147-156.
 
@@ -368,7 +368,7 @@ Heywood, John. Speech in "[Energy for a Rapidly Evolving World](http://techtv.mi
 
 DiMambro, Antonio. "[Boston's Next Urban Frontier: Opportunities and Challenges for Infrastructure Development](https://the-bac.edu/experience-the-bac/videos/antonio-dimambro-lecture-video)." Lecture at Boston Architectural College, August 13, 2013.
 
-California Air Pollution Control Officers Association. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Quantifying Greenhouse Gas Mitigation Measures (PDF-7.5MB)](http://www.capcoa.org/wp-content/uploads/2010/11/CAPCOA-Quantification-Report-9-14-Final.pdf)." Retrieved April 28 (2010): 2011.
+California Air Pollution Control Officers Association.  "[Quantifying Greenhouse Gas Mitigation Measures (PDF-7.5MB)](http://www.capcoa.org/wp-content/uploads/2010/11/CAPCOA-Quantification-Report-9-14-Final.pdf)." Retrieved April 28 (2010): 2011.
 
 
 {{< tdclose >}}

@@ -62,4 +62,4 @@ _Data and Background Material_
 *   Your classmates' counting reports
 *   Red Line and bus ridership for AM peak, midday, PM peak, and evening
 *   [Auto traffic counts](https://data.cambridgema.gov/Traffic-Parking-and-Transportation/Average-Daily-Traffic-Counts-1972-to-2014/v43b-kqeq) from the city of Cambridge
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Central Square Access and Circulation Study (PDF - 4.6MB)](https://www.cambridgema.gov/~/media/Files/CDD/Transportation/transitcommittee/2014/CentrSqBusAccCircStudy.pdf?la=en)
+*   [Central Square Access and Circulation Study (PDF - 4.6MB)](https://www.cambridgema.gov/~/media/Files/CDD/Transportation/transitcommittee/2014/CentrSqBusAccCircStudy.pdf?la=en)
