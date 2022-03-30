@@ -9,6 +9,7 @@ image_metadata:
   credit: "Map courtesy of Google \u2122."
   image-alt: A map of Inman Square in Cambridge, Massachusetts, with key intersections
     highlighted.
+parent_uid: 6e5b8372-4f5e-28b4-a1b4-d75c7fb5687b
 resourcetype: Image
 title: Group4.JPG
 uid: 64725669-4d3d-161e-2c08-03970d9c10c8

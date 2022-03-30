@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: e53c3ff8-af65-09bc-0f16-45111c849df9
 resourcetype: Image
 title: central.jpg
 uid: abcb4ed1-c5eb-0771-3606-1e5da0b66d53

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: e53c3ff8-af65-09bc-0f16-45111c849df9
 resourcetype: Image
 title: South_end-compressor.jpg
 uid: 4b2d6fb6-96a3-3b08-c576-8653fb9e1a07

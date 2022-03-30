@@ -8,6 +8,7 @@ image_metadata:
   credit: "Map courtesy of Google \u2122."
   image-alt: A map of Central Square in Cambridge, Massachusetts, with key intersections
     highlighted.
+parent_uid: 6e5b8372-4f5e-28b4-a1b4-d75c7fb5687b
 resourcetype: Image
 title: Group2.JPG
 uid: 6158b303-d700-7dcc-9b92-cb27e33aa0c3

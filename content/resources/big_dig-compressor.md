@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: e53c3ff8-af65-09bc-0f16-45111c849df9
 resourcetype: Image
 title: big_dig-compressor.jpg
 uid: 2322d36c-a389-72f8-1033-3456bee6e944

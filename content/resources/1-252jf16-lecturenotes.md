@@ -8,6 +8,7 @@ image_metadata:
   credit: Courtesy of Thomas Hawk on Flickr. CC BY-NC.
   image-alt: A photograph of an aerial view of Boston, with the John Hancock tower
     in the foreground.
+parent_uid: 9f328346-e784-d648-bacc-2f6becc2a442
 resourcetype: Image
 title: 1-252JF16-lecturenotes.jpg
 uid: cc7d2383-1fd1-3c1d-286d-15ac64cdba9b
