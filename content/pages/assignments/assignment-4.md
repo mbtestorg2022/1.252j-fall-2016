@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: bffe345b-8320-41e7-f22f-2d38ed180667
 title: Assignment 4
 uid: 589ab6f9-1d13-f93b-2efa-2d73e8e418f4
@@ -48,7 +52,7 @@ Your individual recommendation is due week 14.
 
 [Inner Belt/Brickbottom plans (Somerville)](https://www.somervillebydesign.com/neighborhood-planning/inner-belt-brickbottom/)
 
-[Wynn Everett SSFEIR (PDF - 1.2MB)](http://www.reverejournal.com/wp-content/uploads/2015/09/WynnCasinoMEPACertificateLetterAgu.-2015.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Wynn Everett SSFEIR (PDF - 1.2MB)](http://www.reverejournal.com/wp-content/uploads/2015/09/WynnCasinoMEPACertificateLetterAgu.-2015.pdf)
 
 Orange Line - [MBTA State of the Line report (PDF-2.4MB)](http://www.mbta.com/uploadedfiles/About_the_T/Board_Meetings/StateoftheOrangeLine61616.pdf), [Focus 40 Orange Line upgrades](https://static1.squarespace.com/static/57757a3cff7c50f318d8aae0/t/5804dde39de4bbffc41d7a61/1476713955792/Upcoming+Service+Improvements_accessible.pdf)
 

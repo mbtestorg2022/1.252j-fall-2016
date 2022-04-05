@@ -7,6 +7,10 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: e53c3ff8-af65-09bc-0f16-45111c849df9
 resourcetype: Image
 title: Volpe_center-compressor.jpg

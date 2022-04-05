@@ -9,6 +9,11 @@ image_metadata:
   credit: "Map courtesy of Google \u2122."
   image-alt: A map of Central Square in Cambridge, MA. Key intersections are highlighted
     with blue circles.
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: Assignment 2
+parent_type: CourseSection
 parent_uid: 5a82cbe4-3dab-4a1e-6507-a4ef6fb48521
 resourcetype: Image
 title: Assignment2Map.jpg

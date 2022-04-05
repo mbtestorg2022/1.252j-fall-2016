@@ -7,6 +7,11 @@ image_metadata:
   caption: 'Group 3: Mass Ave at Albany St, Mass Ave at Vassar St, 77 Mass Ave.'
   credit: "Map courtesy of Google \u2122."
   image-alt: A map of key intersections along Massachusetts Avenue in Cambridge, MA.
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: Assignment 1
+parent_type: CourseSection
 parent_uid: 6e5b8372-4f5e-28b4-a1b4-d75c7fb5687b
 resourcetype: Image
 title: Group3.JPG

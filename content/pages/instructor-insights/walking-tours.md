@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: e53c3ff8-af65-09bc-0f16-45111c849df9
 title: Walking Tours
 uid: eba111e0-96a5-a700-7231-9c36b4260952

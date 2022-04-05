@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: e53c3ff8-af65-09bc-0f16-45111c849df9
 ---
@@ -48,20 +50,6 @@ Can be applied toward multiple graduate degrees in [Civil and Environmental Engi
 ### Offered
 
 1.252J was offered every fall semester. Note: The course will not be offered at MIT in Fall 2017, but will be offered in Spring 2018 at the Harvard Graduate School of Design. MIT students can cross-register to take it there.  
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A photo of a classroom. There are individual desks facing two chalkboards at the front of the room.]({{< resource_file 455b86d9-c2d8-0f30-afcc-4d5b56a9ab8a >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Lectures were held in a classroom with a seating capacity of 42. It had sliding chalkboards and an LCD video projector.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

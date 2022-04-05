@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: e53c3ff8-af65-09bc-0f16-45111c849df9
 title: Drawing from Research and Experience
 uid: d298e8cc-8c49-ca4b-8be0-63f72132d912

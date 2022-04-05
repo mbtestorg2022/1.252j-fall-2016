@@ -8,6 +8,11 @@ image_metadata:
     St. intersection.
   credit: Courtesy of Glenn Sleb on Flickr. CC BY-NC-SA.
   image-alt: A photo of a brick church, with a line of cars in the foreground.
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: Assignments
+parent_type: CourseSection
 parent_uid: bffe345b-8320-41e7-f22f-2d38ed180667
 resourcetype: Image
 title: Central Square.jpg
